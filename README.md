@@ -18,6 +18,6 @@ https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-sto
 
 
 ## 참고 사항
-1. Hive MeteStore 는 AWS Glue 로 사용.   
-2. 관련 데이터들은 S3에 업로드 후 진행 
+1. 관련 데이터들은 S3에 업로드 후 진행
+2. metastore_db 는 default (derby 사용)
 
