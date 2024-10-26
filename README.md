@@ -1,4 +1,4 @@
-# 백패커 과제
+# 백패커
 
 ## 사용 데이터
 https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store
